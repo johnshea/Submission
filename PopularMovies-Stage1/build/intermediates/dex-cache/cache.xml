@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_0978af266a252dd3fe339d6c6ecf29062fd77d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.4.0\ea392375cf9ff59234a82e7928a204215ccc98cd\butterknife-annotations-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.4.0_273f960c3f3a8e96a98c0fc5391cd3ea480cb902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_0d693b28fcc6a0c8ab445db060b5f94b9f526b55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.4.0_7a7668a4675412981b1d6f4a8beb89f25e84c35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_5a5f4b8d9be289e36a8df400340d4c71e394278f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_5311c304adffecc4f394ea1a24bc31ff3723b194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_64bedc2c2c2073b3ea5135559ec4f8c9ff1f3cd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_518bcabd268db01f561a5183975ac7e1d390ea27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_34ff7ab79bd179106f1dee8cde57ba6a2435cc7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_9cbad17ef29f017408fd2e214e600fb4ad682414.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_22468e817b0786024d29d590ffc132fc926fe2e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_b3d02c35d0ea4ee1fab38b2c9bc759f4a6e72bf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_8909db1a4b348926ade0a765251da9334872e4cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\preference-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="378c0fefdd7adedd0ea74d7607b3d4a251b29d78">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-preference-v7-25.1.0_8a0fbe8b40632b92199f08a1bea52198f1179ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\tiger\AndroidStudioProjects\nanodigree\Submission\PopularMovies-Stage1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_c79932fe7b9eb197ff8676e21153eecf6e51031d.jar" />
+    </item>
+
+</items>

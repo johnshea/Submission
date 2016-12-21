@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="show_adult"
+        android:summaryOff="block adult movies"
+        android:summaryOn="allowed adult movies"
+        android:title="Adult Movies"/>
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="include_video"
+        android:summaryOff="video not included"
+        android:summaryOn="video included"
+        android:title="Video Include"/>
+    <
+        />
+</PreferenceScreen>

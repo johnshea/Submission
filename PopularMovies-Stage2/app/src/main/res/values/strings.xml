@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Popular Movies-Stage2</string>
+    <string name="api_key">api_key</string>
+    <string name="poster_image">Poster Image</string>
+</resources>
